@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <style name="AppTheme" parent="Theme.MaterialComponents">
+        <item name="android:statusBarColor">#FDD835</item>
+
+        <item name="colorPrimary">#FDD835</item>
+        <item name="colorSecondary">#FFF176</item>
+        <item name="colorOnPrimary">#212121</item>
+        <item name="colorOnSecondary">#212121</item>
+    </style>
+
+</resources>
